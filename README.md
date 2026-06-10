@@ -25,6 +25,102 @@ Welcome to **ZPL Premier Suite**, a luxury-themed Cricket Tournament Management 
 
 ---
 
+## 📈 Architecture & System Flow
+
+### User & Operational Workflow
+```mermaid
+flowchart TD
+    Start([Launch App]) --> Login{User Sign In}
+    
+    Login -- Admin Password --> AdminHome[Admin Control Center]
+    Login -- Franchise Password --> TeamHome[Franchise Team Hub]
+    
+    %% Admin Actions
+    AdminHome --> AddTeam[Configure System Teams]
+    AdminHome --> GlobalSchedule[Schedule Global Matches]
+    AdminHome --> ViewStats[Monitor Live Standings]
+    
+    %% Team Actions
+    TeamHome --> EditCorp[Update Corporate Officers & Sponsors]
+    TeamHome --> ManageRoster[Register & Edit Squad Players]
+    TeamHome --> MatchCenter[Match Center: Log Performance Cards]
+    
+    %% Shared Updates
+    MatchCenter --> AutoUpdate[Auto-recalculate Points & Cap Standings]
+    ViewStats --> Dashboard[Global Leaderboard View]
+    AutoUpdate --> Dashboard
+```
+
+### Entity-Relationship Diagram (ERD)
+```mermaid
+erDiagram
+    TEAM ||--|| CORPORATE_MANAGEMENT : owns
+    TEAM ||--o{ PLAYER : registers
+    TEAM ||--o{ SPONSOR : partners_with
+    TEAM ||--o{ MATCH : plays
+    MATCH ||--o{ PLAYER_PERFORMANCE : contains
+    PLAYER ||--o{ PLAYER_PERFORMANCE : registers_stats
+
+    TEAM {
+        string id PK "e.g., RCB, MI"
+        string name
+        string password
+        string slogan
+        string logo
+        string color
+    }
+
+    CORPORATE_MANAGEMENT {
+        string founder
+        string ceo
+        string cfo
+        string cmo
+        string homeGround
+    }
+
+    PLAYER {
+        string id PK
+        string name
+        string nationality
+        string role
+        string battingStyle
+        string bowlingStyle
+        boolean isCaptain
+        boolean isViceCaptain
+    }
+
+    SPONSOR {
+        string name
+        string type
+    }
+
+    MATCH {
+        string id PK
+        int number
+        date date
+        string time
+        string venue
+        string opposition
+        string toss
+        string decision
+        string result
+        string playerOfMatch
+        string status
+    }
+
+    PLAYER_PERFORMANCE {
+        string playerId FK
+        int runs
+        int balls
+        boolean isOut
+        int wickets
+        int runsConceded
+        float overs
+    }
+```
+
+---
+
 ## 🛠 Tech Stack
 
 * **Frontend Framework**: [React 18](https://react.dev/)
