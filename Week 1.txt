@@ -1,0 +1,158 @@
+Week 1
+Match 1: CSK vs RCB — M. A. Chidambaram Stadium, Chennai
+
+Match 2: MI vs KKR — Wankhede Stadium, Mumbai
+
+Match 3: SRH vs GT — Rajiv Gandhi International Stadium, Hyderabad
+
+Match 4: DC vs RR — Arun Jaitley Stadium, Delhi
+
+Match 5: PBKS vs LSG — PCA Stadium, Mohali
+
+Match 6: RCB vs MI — M. Chinnaswamy Stadium, Bengaluru
+
+Match 7: KKR vs CSK — Eden Gardens, Kolkata
+
+Week 2
+Match 8: GT vs DC — Narendra Modi Stadium, Ahmedabad
+
+Match 9: RR vs PBKS — Sawai Mansingh Stadium, Jaipur
+
+Match 10: LSG vs SRH — BRSABV Ekana Cricket Stadium, Lucknow
+
+Match 11: CSK vs MI — M. A. Chidambaram Stadium, Chennai
+
+Match 12: RCB vs KKR — M. Chinnaswamy Stadium, Bengaluru
+
+Match 13: SRH vs DC — Rajiv Gandhi International Stadium, Hyderabad
+
+Match 14: GT vs RR — Narendra Modi Stadium, Ahmedabad
+
+Week 3
+Match 15: PBKS vs CSK — PCA Stadium, Mohali
+
+Match 16: MI vs LSG — Wankhede Stadium, Mumbai
+
+Match 17: KKR vs SRH — Eden Gardens, Kolkata
+
+Match 18: DC vs RCB — Arun Jaitley Stadium, Delhi
+
+Match 19: RR vs GT — Sawai Mansingh Stadium, Jaipur
+
+Match 20: LSG vs PBKS — BRSABV Ekana Cricket Stadium, Lucknow
+
+Match 21: CSK vs SRH — M. A. Chidambaram Stadium, Chennai
+
+Week 4
+Match 22: MI vs DC — Wankhede Stadium, Mumbai
+
+Match 23: RCB vs RR — M. Chinnaswamy Stadium, Bengaluru
+
+Match 24: KKR vs GT — Eden Gardens, Kolkata
+
+Match 25: PBKS vs SRH — PCA Stadium, Mohali
+
+Match 26: LSG vs CSK — BRSABV Ekana Cricket Stadium, Lucknow
+
+Match 27: DC vs MI — Arun Jaitley Stadium, Delhi
+
+Match 28: RR vs KKR — Sawai Mansingh Stadium, Jaipur
+
+Week 5
+Match 29: GT vs RCB — Narendra Modi Stadium, Ahmedabad
+
+Match 30: SRH vs PBKS — Rajiv Gandhi International Stadium, Hyderabad
+
+Match 31: CSK vs DC — M. A. Chidambaram Stadium, Chennai
+
+Match 32: MI vs RR — Wankhede Stadium, Mumbai
+
+Match 33: KKR vs LSG — Eden Gardens, Kolkata
+
+Match 34: RCB vs PBKS — M. Chinnaswamy Stadium, Bengaluru
+
+Match 35: GT vs CSK — Narendra Modi Stadium, Ahmedabad
+
+Week 6
+Match 36: SRH vs MI — Rajiv Gandhi International Stadium, Hyderabad
+
+Match 37: DC vs KKR — Arun Jaitley Stadium, Delhi
+
+Match 38: RR vs LSG — Sawai Mansingh Stadium, Jaipur
+
+Match 39: PBKS vs GT — PCA Stadium, Mohali
+
+Match 40: RCB vs SRH — M. Chinnaswamy Stadium, Bengaluru
+
+Match 41: CSK vs KKR — M. A. Chidambaram Stadium, Chennai
+
+Match 42: MI vs GT — Wankhede Stadium, Mumbai
+
+Week 7
+Match 43: DC vs PBKS — Arun Jaitley Stadium, Delhi
+
+Match 44: RR vs SRH — Sawai Mansingh Stadium, Jaipur
+
+Match 45: LSG vs RCB — BRSABV Ekana Cricket Stadium, Lucknow
+
+Match 46: CSK vs PBKS — M. A. Chidambaram Stadium, Chennai
+
+Match 47: MI vs RCB — Wankhede Stadium, Mumbai
+
+Match 48: KKR vs DC — Eden Gardens, Kolkata
+
+Match 49: GT vs LSG — Narendra Modi Stadium, Ahmedabad
+
+Week 8
+Match 50: SRH vs RR — Rajiv Gandhi International Stadium, Hyderabad
+
+Match 51: PBKS vs MI — PCA Stadium, Mohali
+
+Match 52: LSG vs KKR — BRSABV Ekana Cricket Stadium, Lucknow
+
+Match 53: RCB vs GT — M. Chinnaswamy Stadium, Bengaluru
+
+Match 54: DC vs CSK — Arun Jaitley Stadium, Delhi
+
+Match 55: RR vs MI — Sawai Mansingh Stadium, Jaipur
+
+Match 56: SRH vs KKR — Rajiv Gandhi International Stadium, Hyderabad
+
+Week 9
+Match 57: GT vs PBKS — Narendra Modi Stadium, Ahmedabad
+
+Match 58: CSK vs LSG — M. A. Chidambaram Stadium, Chennai
+
+Match 59: RCB vs DC — M. Chinnaswamy Stadium, Bengaluru
+
+Match 60: KKR vs RR — Eden Gardens, Kolkata
+
+Match 61: MI vs SRH — Wankhede Stadium, Mumbai
+
+Match 62: LSG vs GT — BRSABV Ekana Cricket Stadium, Lucknow
+
+Match 63: PBKS vs RCB — PCA Stadium, Mohali
+
+Week 10
+Match 64: RR vs CSK — Sawai Mansingh Stadium, Jaipur
+
+Match 65: DC vs GT — Arun Jaitley Stadium, Delhi
+
+Match 66: KKR vs MI — Eden Gardens, Kolkata
+
+Match 67: SRH vs LSG — Rajiv Gandhi International Stadium, Hyderabad
+
+Match 68: PBKS vs DC — PCA Stadium, Mohali
+
+Match 69: GT vs SRH — Narendra Modi Stadium, Ahmedabad
+
+Match 70: LSG vs RR — BRSABV Ekana Cricket Stadium, Lucknow
+
+Playoff Phase (Matches 71–74)
+Match 71 (Qualifier 1): RCB vs SRH — M. Chinnaswamy Stadium, Bengaluru
+
+Match 72 (Eliminator): CSK vs MI — M. A. Chidambaram Stadium, Chennai
+
+Match 73 (Qualifier 2): RCB vs CSK — Narendra Modi Stadium, Ahmedabad
+
+Match 74 (Grand Final): SRH vs RCB — Narendra Modi Stadium, Ahmedabad
